@@ -2,4 +2,4 @@
 Main repo for projects 
 
 
-- [x] Episode 001: Webscraper [Youtube](https://youtu.be/yY3YBGqrenM), [:computer: Code](https://github.com/mr-copy-paste/001-web-scraper)
+- :heavy_check_mark: Episode 001: Webscraper [:arrow_forward: Youtube](https://youtu.be/yY3YBGqrenM), [:computer: Code](https://github.com/mr-copy-paste/001-web-scraper)
